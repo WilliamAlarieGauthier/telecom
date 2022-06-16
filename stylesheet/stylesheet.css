@@ -1,0 +1,127 @@
+body{
+  background-color: rgb(87, 140, 156) !important;
+  font-family: "Rubik";
+  overflow-x: hidden;
+  
+}
+.navbar{
+  font-family: "Rubik";
+  font-size: large;
+  background: rgb(2, 59, 77);
+}
+
+/*Footer*/
+.footertext{
+  color: whitesmoke;
+  font-size: larger;
+  font-family: "Rubik";
+  padding-left: 0.5cm;
+  padding-right: 0.5cm;
+  width: 100%;
+}
+
+.pfooter {
+  font-family : "rubik";
+}
+.footertest{
+  position: absolute;
+  width: 100%;
+  padding-top: 1cm;
+  margin-left: auto;
+}
+
+.footercontenue{
+  background: rgb(2, 59, 77);
+  padding-top: 0.3cm;
+  padding-bottom: 0.3cm;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+/*Footer*/
+
+­/*Contactform*/
+  body{
+		background-color: #25274d;
+	}
+	.contact{
+		padding: 4%;
+		height: 400px;
+	}
+	.col-md-3{
+		background: rgb(2, 59, 77);
+		padding: 4%;
+		border-top-left-radius: 0.5rem;
+		border-bottom-left-radius: 0.5rem;
+	}
+	.contact-info{
+		margin-top:10%;
+	}
+	.contact-info img{
+		margin-bottom: 15%;
+	}
+	.contact-info h2{
+		margin-bottom: 10%;
+	}
+	.col-md-9{
+		background: #fff;
+		padding: 3%;
+		border-top-right-radius: 0.5rem;
+		border-bottom-right-radius: 0.5rem;
+	}
+	.contact-form label{
+		font-weight:600;
+	}
+	.contact-form button{
+		background: rgb(2, 59, 77);
+		color: #fff;
+		font-weight: 600;
+		width: 25%;
+	}
+	.contact-form button:focus{
+		box-shadow:none;
+	}
+.textcontact{
+  color: white;
+  }
+­/*Contactform*/
+
+/*CONTENUE*/
+.imggauche{
+	width: 50%;
+	height: 10;
+	margin-bottom: 5cm;
+}
+
+.row{
+	padding-top: 1cm;
+	padding-left: 1cm;
+}
+/*CONTENUE*/
+
+/*Couleur du text*/
+p{
+	color: #fff;
+}
+
+p1{
+	color: #fff;
+	font-size: x-small;
+}
+
+h1{
+	color: white;
+}
+h2{
+	color: white;
+}
+h3{
+	color: white;
+}
+h4{
+	color: white;
+}
+h5{
+	color: white;
+}
+/*Couleur du text*/
